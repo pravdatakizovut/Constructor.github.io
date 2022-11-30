@@ -1,0 +1,102 @@
+//! F I R S T   R O W 
+.sport-object {
+    background-color: #69A04C;
+    padding: 60px 0;
+    font-family: 'Jost', sans-serif;
+    border-bottom: 50px solid #fff;
+}
+.menu-list {
+    display: flex;
+    margin-bottom: 0;
+}
+.menu-link {
+    color:#fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-right: 30px;
+    transition: all 0.4s ease;
+    // font-weight: 600;
+    letter-spacing: 1.2px;
+    &:hover {
+        color:#000;
+        transition: all 0.4s ease;
+
+    }
+}
+
+.input-search {
+    padding: 12px 40px;
+}
+.btn-search {
+    background-color:#636aad !important;
+    border-radius: 0 !important;
+    padding: 5px 15px !important;
+    height: 45px !important;
+    display: block;
+    position: absolute;
+   &:hover {
+    background-color:#505796 !important;
+    transition: all 0.4s ease;
+    
+   }
+}
+.icon {
+    color:#fff;
+}
+//! S E C O N D   R O W 
+
+
+.sport__object__h3-title {
+    text-transform: uppercase;
+    font-weight: 700;
+    color:#fff;
+}
+.sport-object-img {
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+.menu__item-text {
+    padding-left: 25px;
+    font-size: 14px;
+    color:#fff;
+    font-weight: 300;
+    letter-spacing: 0.6px;
+}
+.fa-location-pin {
+padding-top: 12px;
+}
+.fa-phone {
+padding-top: 2px;
+}
+.fa-envelope {
+padding-top: 4px;
+
+}
+.social_icon {
+    margin-right: 20px;
+}
+.sport__object-text {
+    font-size: 16px;
+    color:#fff;
+    font-weight: 300;
+    letter-spacing: 0.6px;
+
+}
+.comm-input {
+    height: 100% !important;
+}
+.sport-object__btn {
+    width: 100% !important;
+    background-color:#535A9A !important;
+    border:none;
+    border-radius:0 !important;
+
+}
+.form-control {
+    border-radius:0 !important;
+}
+.burger-king-img img{
+    margin-right: 20px;
+   
+  
+}

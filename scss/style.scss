@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import "nullstyle";
+@import "adaptive";
+@import "sport-object";
+@import "burger-king";
+@import "ozon";
+@import "aliexpress";
+
+.index__title {
+    border-bottom: 0px solid white !important;
+    margin-bottom: 20px !important;
+    background-color:rgb(29, 29, 29) !important;
+    box-shadow: 4px 4px 10px rgb(95, 95, 95) !important; 
+
+}
+.title {
+    font-size: 64px;
+    text-transform: uppercase;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    background-color:rgb(41, 41, 41);
+    color:#fff;
+    border-bottom: 1px solid white;
+
+}
+.mb-10 {
+    margin-bottom: 10px !important;
+}
+.mb-20 {
+    margin-bottom: 20px !important;
+}
+.mb-30 {
+    margin-bottom: 30px !important;
+}
+.mb-50 {
+    margin-bottom: 50px !important;
+}
+
+.mb-80 {
+    margin-bottom: 80px !important;
+}
+.mb-100 {
+    margin-bottom: 100px !important;
+}
+.mr-30 {
+    margin-right: 30px !important;
+}
+.mr-10 {
+    margin-right: 10px !important;
+}

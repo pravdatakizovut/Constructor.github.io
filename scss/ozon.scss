@@ -1,0 +1,154 @@
+//! O Z O N     F I R S T     R O W
+
+.ozon {
+    font-family: 'Nunito', sans-serif !important;
+
+    background-color: #F2F5F9;
+    padding:80px 0;
+    border-bottom: 50px solid #fff;
+
+}
+.ozon-nav {
+    background-color:#E9EDF4;
+    padding: 25px;
+    border-radius: 10px;
+}
+.ozon-logo  img{
+    width: 140px;
+    margin-right: 60px;
+}
+.ozon__icon-text {
+    font-weight: 700;
+    font-size: 16px;
+}
+.fa-desktop,
+.fa-briefcase,
+.fa-wallet,
+.fa-house,
+.fa-lemon,
+.fa-car-side,
+.fa-graduation-cap,
+.fa-calendar-days {
+    color:rgb(175, 175, 175) !important;
+  
+}
+.ozon__item-link {
+    margin-right: 40px;
+    color:#001a34; 
+    transition: color 0.3s ease;
+    &:hover .fa-desktop {
+        color:#005bff !important;
+        transition: color 0.3s ease;
+    }
+     &:hover .fa-briefcase {
+        color:#005bff !important;
+        transition: color 0.3s ease;
+    }
+    &:hover .fa-wallet {
+        color:#005bff !important;
+        transition: color 0.3s ease;
+    }
+    &:hover .fa-house {
+        color:#005bff !important;
+        transition: color 0.3s ease;
+    }
+    &:hover .fa-lemon {
+        color:#005bff !important;
+        transition: color 0.3s ease;
+    }
+    &:hover .fa-car-side {
+        color:#005bff !important;
+        transition: color 0.3s ease;
+    }
+    &:hover .fa-graduation-cap {
+        color:#005bff !important;
+        transition: color 0.3s ease;
+    }
+    &:hover .fa-calendar-days {
+        color:#005bff !important;
+        transition: color 0.3s ease;
+    }
+    &:hover .ozon__icon-text {
+        color:#005bff;
+        transition: color 0.3s ease;
+    }
+   
+}
+//! O Z O N     S E C O N D     R O W
+.ozon-qr {
+    padding: 40px;
+    border:1px solid rgb(194, 194, 194);
+    border-radius: 20px;
+    & img {
+        width: 190px !important;
+    }
+}
+.ozon__qr-text {
+    font-size: 14px;
+    font-weight: 600;
+    color:rgb(126, 126, 126);
+    letter-spacing: 0.3px;
+}
+.ozon__qr-market {
+    & img {
+        width: 42px !important;
+        margin-right: 10px;
+    }
+}
+.ozon-internet-shop li {
+    margin-bottom: 8px;
+    
+}
+.ozon__nav-title {
+    font-weight: 700;
+    font-size: 16px;
+}
+.ozon__nav-link {
+    color:#6e6e6e;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: -0.1px;
+}
+.fa-vk  {
+    transition: color 0.3s ease;
+    &:hover {
+        color:#005bff;
+        transition: color 0.3s ease;
+    }
+}
+.fa-square-odnoklassniki {
+    transition: color 0.3s ease;
+    &:hover {
+        color:#005bff;
+        transition: color 0.3s ease;
+    }
+}
+.fa-telegram {
+    transition: color 0.3s ease;
+    &:hover {
+        color:#005bff;
+        transition: color 0.3s ease;
+    }
+}
+.ozon_social-icon i {
+    margin-right: 5px;
+}
+.ozon-copyright {
+    font-size: 12px;
+    font-weight: 700;
+    color:#6e6e6e
+}
+.ozon-btn {
+    background-color:#005bff !important;
+    width: 100%;
+    color:#fff !important;
+    font-weight: 700 !important;
+    padding:10px 0 !important;
+    border-radius: 10px !important;
+    transition: all 0.3 ease;
+    &:hover {
+    background-color:#084ed1 !important;
+    transition: all 0.3 ease;
+
+    }
+}

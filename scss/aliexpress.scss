@@ -1,0 +1,68 @@
+.aliexpress {
+    background-color:#E4E4E4;
+    font-family: 'Inter', sans-serif;
+    padding:80px 0;
+    
+}
+// 222222
+.aliexpress__header-desc {
+    margin-left: 12.25px;
+}
+.fa-tag {
+    
+}
+.aliexpress__header__block-title {
+    font-weight: 700;
+    font-size: 18px;
+    
+}
+.aliexpress__header__block-desc {
+    font-size: 12px;
+}
+.aliexpress__header__block-icon {
+    margin-right: 10px ;
+}
+.aliexpress__header__block-desc {
+    margin-left: 35px;
+}
+.shield-desc { 
+    margin-left: 38.5px;
+}
+.message-desc { 
+    margin-left: 39px;
+}
+.aliexpress__nav-title {
+    font-size: 24px;
+    font-weight: 700;
+}
+.aliexpress__nav-item {
+    margin-bottom: 15px;
+}
+.aliexpress__nav-title {
+    margin-bottom: 20px !important;
+}
+.aliexpress__nav-link {
+    color:black;
+    text-decoration: underline !important;
+    text-underline-offset: 4px;
+    font-size: 16px;
+    &:hover {
+        color:black;
+    }
+} 
+.card-items img {
+    margin-right: 20px;
+}
+.aliexpress_footer__link {
+    color:black;
+    font-size: 16px;
+    text-decoration: underline !important;
+    text-underline-offset: 4px;
+    margin-right: 20px;
+    &:hover {
+        color:black;
+    }
+}
+.aliexpress-copyright {
+    float: right;
+}

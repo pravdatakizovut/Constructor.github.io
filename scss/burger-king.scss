@@ -1,0 +1,37 @@
+.burger-king {
+    background-color: #32180F;
+    padding:80px 0;
+    font-family: 'Nunito', sans-serif !important;
+    border-bottom: 50px solid #fff;
+
+}
+.burger__king-link {
+    color:#F5EBDC;
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: 700;
+    &:hover {
+        color:#F5EBDC;
+    }
+}
+.burger__king-politicalinfo{
+    font-size: 14px;
+    text-decoration: none;
+    font-weight: 700;
+    color: #e7bbac;
+    &:hover {
+    color: #c99c8c;
+
+    }
+
+}
+.burger-king-social-icons img {
+    margin-left: 20px;
+}
+.burger-king-fr {
+    border-bottom:1px solid #c99c8c;
+}
+.copyright {
+    color:#c99c8c;
+    font-weight: 700;
+}
